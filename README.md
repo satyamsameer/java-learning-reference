@@ -96,7 +96,7 @@ Please, feel free to make any contributions you feel will make it better.
 				- [Logical Operators](#logical-operators)
 				- [Assignment Operators](#assignment-operators)
 				- [Miscellaneous Operators](#miscellaneous-operators)
-			- [Ternary]($ternary) Conditional Operator (:?)
+			- [Ternary](#ternary) Conditional Operator (:?)
 			- [instanceof Operator](#instanceof-operator)
 			- [Precedence of Operators](#precedence-of-operators)
 		- [Control Statements](#control-statements)
@@ -151,11 +151,12 @@ Please, feel free to make any contributions you feel will make it better.
 
 ## Parts
 
-- [x] Basics - 
+- Basics - 
 
-- [x] Advance - 
+- Advance - 
 
-## Basics
+---
+## Basic
 
 ### Introduction
 
@@ -167,28 +168,19 @@ Please, feel free to make any contributions you feel will make it better.
 
 #### JIT
 
-#### Bytecode (.class file)
+#### Bytecode (.class file) 
 
 #### Platform Independence
 
 #### OOPs
-
 ##### Objects
-
 ##### Classes
-
 ##### Inheritance
-
 ##### Polymorphism
-
 ###### Runtime Polymorphism
-
 ##### Aggregation
-
 ##### Abstraction
-
 ##### Encapsulation
-
 ##### Data Binding
 
 
@@ -199,11 +191,8 @@ Please, feel free to make any contributions you feel will make it better.
 ### Syntax
  
 ### Imports
-
 #### Packages
-
 #### Libraries
-
 #### Classes
 
 ### Naming Conventions 
@@ -212,11 +201,8 @@ Please, feel free to make any contributions you feel will make it better.
 ### Keywords
 
 ### Comments
-
 #### Single Line Comments
-
 #### Multiple Line Comments
-
 #### Documentation Comment
 
 ### Java Programs
@@ -228,122 +214,91 @@ Please, feel free to make any contributions you feel will make it better.
 ### Constituents
 
 #### Data Types
-
 ##### Primitive Datatypes
-				- [Integers (Long and Short)](#integers)
-				- [Floating Point](#floating-point)
-				- [Double](#double)
-				- [Characters](#characters)
-				- [Boolean](#boolean)
-				- [Byte](#byte)
-
+- Integers (Long and Short)
+- Floating Point
+- Double
+- Characters
+- Boolean
+- Byte
 ##### Reference/Object Datatypes
-				- [Static Binding](#static-binding)
-				- [Dynamic Binding](#dynamic-binding)
-
+- Static Binding
+- Dynamic Binding
 ##### Java Literals
-
 ##### Non Primitive Datatypes
-				- [String Type](#string-type)
-				- [Arrays](#arrays) Datatype and Index in one-dimensional or multi-dimensional arrays
+- String Type
+- Arrays - Datatype and Index in one-dimensional or multi-dimensional arrays
 
 #### Variables
-
 ##### Data Type
-
 ##### Identifier
-
 ##### Initializer
 
 #### Modifier Types
-
 ##### Java Access Modifiers
-				- [Public](#public)
-				- [Protected](#protected)
-				- [Private](#private)
-
+- Public
+- Protected
+- Private
 ##### Java Non Access Modifiers
-				- [Static](#static)
-				- [Final](#final)
-				- [Abstract](#abstract)
-				- [Synchronized](#synchronized)
-
+- Static
+- Final
+- Abstract
+- Synchronized
 ##### this Keyword
 
 #### Operators
-
 ##### Unary
-
 ##### Increment
 	Postfix and Prefix
-
 ##### Decrement
 	Postfix an Prefix
-
 ##### Binary
-				- [Arithematic Operators](#arithematic-operators)
-				- [Relational Operators](#relational-operators)
-				- [Bitwise Operators](#bitwise-operators)
-				- [Logical Operators](#logical-operators)
-				- [Assignment Operators](#assignment-operators)
-				- [Miscellaneous Operators](#miscellaneous-operators)
-
+- Arithematic Operators
+- Relational Operators
+- Bitwise Operators
+- Logical Operators
+- Assignment Operators
+- Miscellaneous Operators
 ##### Ternary
 	Conditional Operator (:?)
-
 ##### instanceof Operator
-
 ##### Precedence of Operators
 
 #### Control Statements
-
 ##### if-else
-
 ##### for Loop
-
 ##### while Loop
-
 ##### do-while Loop
-
 ##### Break Statement
-
 ##### Continue Statement
 
 #### Classes Forms
-
 ##### Abstract Class
-
 ##### Interface Class
-
 ##### Base and Super Class
-				- [super Keyword](#super-keyword)
-				- [extends Keyword](#extends-keyword)
+- super Keyword
+- extends Keyword
 
 #### Objects
 
 #### Class Members
-
 ##### Class Variables
-
 ##### Class Methods
 	dot operator
-				- [Method Overriding and Overloading](#method-overriding-and-overloading)
-				- [Driving method main()](#driving-method-main)
-				- [Abstract Methods](#abstract-methods)
-				- [Constructor](#constructor)
-					- [Constructor Overriding and Overloading](#constructor-overriding-and-overloading)
-				- [Return Type](#return-type)
-				- [Call By Value](#call-by-value)
-
+- Method Overriding and Overloading
+- Driving method main()
+- Abstract Methods
+- Constructor
+	- Constructor Overriding and Overloading
+- Return Type
+- Call By Value
 ##### Inner Class
-				- [Nested Classes](#nested-classes)
-					- [Non Static Inner Classes](#non-static-inner-classes)
-						- [Inner Classes](#inner-classes)
-						- [Method Local Inner Classes](#method-local-inner-classes)
-						- [Anonymous Inner Classes](#anonymous-inner-classes)
-
+- Nested Classes
+	- Non Static Inner Classes
+		- Inner Classes
+		- Method Local Inner Classes
+		- Anonymous Inner Classes
 ##### Outer Class
-
 ##### Wrapper Class
 	Autoboxing and Unboxing
 
@@ -352,16 +307,11 @@ Please, feel free to make any contributions you feel will make it better.
 #### Exception Handling
 
 #### Exception Handling Components
-
 ##### try Block
-
 ##### catch Block
 	Multiple Catch Blocks
-
 ##### finally Vs final Vs finalize
-
 ##### throw
-
 ##### throws
 
 #### Exception Propogation
@@ -371,3 +321,4 @@ Please, feel free to make any contributions you feel will make it better.
 #### Custom Exception
 
 ## Advance
+	In Progress
