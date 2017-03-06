@@ -4,7 +4,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 Language: English
 
 ## What is it?
-This is a study plan from the basics to the advance concepts for he JAVA computer programming language.
+This is a study plan or say reference from the basics to the advance concepts for the JAVA computer programming language.
 
 My main goal is to find an approach for studying the JAVA computer language and during this I've created a topic wise summary for quick review containing various references and tutorials.
 This approach is unconventional because it’s the top-down approach and relatively quick.
