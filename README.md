@@ -13,6 +13,7 @@ Please, feel free to make any contributions you feel will make it better.
 
 ---
 
+
 ## Table of Contents
 
 - [What is it?](#what-it-is)
@@ -149,6 +150,7 @@ Please, feel free to make any contributions you feel will make it better.
 		
 ---
 
+
 ## Parts
 
 - Basics - 
@@ -184,6 +186,7 @@ Please, feel free to make any contributions you feel will make it better.
 ##### Data Binding
 
 ---
+
 
 ## Program Structure
 
@@ -379,6 +382,7 @@ Please, feel free to make any contributions you feel will make it better.
 #### Custom Exception
 
 ---
+
 
 ## Advance
 	In Progress
