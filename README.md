@@ -178,7 +178,6 @@ Please, feel free to make any contributions you feel will make it better.
 ##### Inheritance
 ##### Polymorphism
 ###### Runtime Polymorphism
-
 ##### Aggregation
 ##### Abstraction
 ##### Encapsulation
@@ -193,9 +192,19 @@ Please, feel free to make any contributions you feel will make it better.
 ### Syntax
  
 ### Imports
+-
+
 #### Packages
+
+-
+
 #### Libraries
+
+-
+
 #### Classes
+
+-
 
 ### Naming Conventions 
 	Classes, methods and variables
@@ -203,11 +212,20 @@ Please, feel free to make any contributions you feel will make it better.
 ### Keywords
 
 ### Comments
+
+-
+
 #### Single Line Comments
+
+-
 
 #### Multiple Line Comments
 
+-
+
 #### Documentation Comment
+
+-
 
 ### Java Programs
 
