@@ -156,10 +156,10 @@ Please, feel free to make any contributions you feel will make it better.
 - Advance - 
 
 ---
+
 ## Basic
 
 ### Introduction
-
 #### What is JAVA?
 
 #### History
@@ -173,19 +173,19 @@ Please, feel free to make any contributions you feel will make it better.
 #### Platform Independence
 
 #### OOPs
-------
 ##### Objects
 ##### Classes
 ##### Inheritance
 ##### Polymorphism
 ###### Runtime Polymorphism
+
 ##### Aggregation
 ##### Abstraction
 ##### Encapsulation
 ##### Data Binding
-------
 
 ---
+
 ## Program Structure
 
 ### Unicode System
@@ -193,11 +193,9 @@ Please, feel free to make any contributions you feel will make it better.
 ### Syntax
  
 ### Imports
-------
 #### Packages
 #### Libraries
 #### Classes
-------
 
 ### Naming Conventions 
 	Classes, methods and variables
@@ -205,11 +203,11 @@ Please, feel free to make any contributions you feel will make it better.
 ### Keywords
 
 ### Comments
-------
 #### Single Line Comments
+
 #### Multiple Line Comments
+
 #### Documentation Comment
-------
 
 ### Java Programs
 
@@ -219,50 +217,51 @@ Please, feel free to make any contributions you feel will make it better.
 
 ### Constituents
 
+-
+
 #### Data Types
 ##### Primitive Datatypes
-------
 - Integers (Long and Short)
 - Floating Point
 - Double
 - Characters
 - Boolean
 - Byte
-------
+
 ##### Reference/Object Datatypes
-------
 - Static Binding
 - Dynamic Binding
-------
+
 ##### Java Literals
+
 ##### Non Primitive Datatypes
-------
 - String Type
 - Arrays - Datatype and Index in one-dimensional or multi-dimensional arrays
-------
+
+-
 
 #### Variables
-------
 ##### Data Type
 ##### Identifier
 ##### Initializer
-------
+
+-
 
 #### Modifier Types
 ##### Java Access Modifiers
-------
 - Public
 - Protected
 - Private
-------
+
 ##### Java Non Access Modifiers
-------
 - Static
 - Final
 - Abstract
 - Synchronized
-------
+
 ##### this Keyword
+
+-
 
 #### Operators
 ##### Unary
@@ -271,18 +270,19 @@ Please, feel free to make any contributions you feel will make it better.
 ##### Decrement
 	Postfix an Prefix
 ##### Binary
-------
 - Arithematic Operators
 - Relational Operators
 - Bitwise Operators
 - Logical Operators
 - Assignment Operators
 - Miscellaneous Operators
-------
+
 ##### Ternary
 	Conditional Operator (:?)
 ##### instanceof Operator
 ##### Precedence of Operators
+
+-
 
 #### Control Statements
 ##### if-else
@@ -292,22 +292,25 @@ Please, feel free to make any contributions you feel will make it better.
 ##### Break Statement
 ##### Continue Statement
 
+-
+
 #### Classes Forms
 ##### Abstract Class
 ##### Interface Class
 ##### Base and Super Class
-------
 - super Keyword
 - extends Keyword
-------
+
+-
 
 #### Objects
+
+-
 
 #### Class Members
 ##### Class Variables
 ##### Class Methods
 	dot operator
-------
 - Method Overriding and Overloading
 - Driving method main()
 - Abstract Methods
@@ -315,18 +318,18 @@ Please, feel free to make any contributions you feel will make it better.
 	- Constructor Overriding and Overloading
 - Return Type
 - Call By Value
-------
+
 ##### Inner Class
-------
 - Nested Classes
 	- Non Static Inner Classes
 		- Inner Classes
 		- Method Local Inner Classes
 		- Anonymous Inner Classes
-------
 ##### Outer Class
 ##### Wrapper Class
 	Autoboxing and Unboxing
+
+-
 
 #### Blockc(Instance Intializer Block)
 
