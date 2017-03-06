@@ -215,16 +215,18 @@ Please, feel free to make any contributions you feel will make it better.
 
 #### Data Types
 ##### Primitive Datatypes
-- Integers (Long and Short)
-- Floating Point
-- Double
-- Characters
-- Boolean
-- Byte
+* Integers (Long and Short)
+* Floating Point
+* Double
+* Characters
+* Boolean
+* Byte
 ##### Reference/Object Datatypes
 - Static Binding
 - Dynamic Binding
+
 ##### Java Literals
+
 ##### Non Primitive Datatypes
 - String Type
 - Arrays - Datatype and Index in one-dimensional or multi-dimensional arrays
@@ -319,6 +321,8 @@ Please, feel free to make any contributions you feel will make it better.
 #### Exception Handling with Method Overriding
 
 #### Custom Exception
+
+---
 
 ## Advance
 	In Progress
