@@ -195,7 +195,7 @@ Please, feel free to make any contributions you feel will make it better.
 ### Syntax
  
 ### Imports
--
+<hr>
 
 #### Packages
 
@@ -210,6 +210,7 @@ Please, feel free to make any contributions you feel will make it better.
 -
 
 ### Naming Conventions 
+	
 	Classes, methods and variables
 
 ### Keywords
