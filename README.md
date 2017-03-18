@@ -163,10 +163,26 @@ Please, feel free to make any contributions you feel will make it better.
 
 ### Introduction
 #### What is JAVA?
+Java is a powerful and versatile programming language for developing software running on mobile devices, desktop computers, and servers.
+
+Java is simple, object oriented, distributed, interpreted, robust, secure, architecture neutral, portable, high performance, multi-threaded, and dynamic. With advancement various versions are released like J2EE and J2ME. Sun Microsystems has renamed the new J2 versions as Java SE, Java EE and Java ME, respectively. Java is guaranteed to be Write Once, Run Anywhere.
 
 #### History
+Java was developed by a team led by James Gosling at Sun Microsystems. Sun Microsystems was purchased by Oracle in 2010. Originally called Oak, Java was designed in 1991 for use in embedded chips in consumer electronic appliances. In 1995, renamed Java, it was redesigned for developing Web applications.
 
 #### Features of JAVA
+There are carious features possessed by the JAVA programming language some of them are given below-
+Simple- It is designed for simplicity i.e., if you know OOPs concepts it is easy to master.
+Object Oriented- Java treat everything as objects hence it can be easily extended as it is based on object model.
+Distributed- Java is best suited for distributed environment such as internet.
+Interpreted- Java byte code is translated on the fly to native machine instructions and is not stored anywhere. The development process is more rapid and analytical since the linking is an incremental and lightweight process.
+Robust- Java negotiates erroneous situations by emphasizing mainly on compile and run time only.
+Secure- Java is designed to apply security features with ease like authentiaction based on public key cryptography.
+Architectural Neutral- Java compiler creates a bytecode from the source which is gives the ability to write once and run on any platform.
+Portable- As it is architectural neutral and having no dependencies makes it portable. Compiler in Java is written in ANSI C with a clean portability boundary which is POSIX subset.
+High Performance- Wiith its Just-In-Time compiler it gives high performance.
+Multithreaded- It gives capability for developers to write programs which can do multiple works at the same time.
+Dynamic- More dynamic than C or C++ as it adapts to evolving environment. Each java programs holds extensive amount of run time information that can be used to verify and resolve accesses to objects on run-time.
 
 #### JIT
 
