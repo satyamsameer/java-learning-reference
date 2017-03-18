@@ -172,17 +172,17 @@ Java was developed by a team led by James Gosling at Sun Microsystems. Sun Micro
 
 #### Features of JAVA
 There are carious features possessed by the JAVA programming language some of them are given below-
-Simple- It is designed for simplicity i.e., if you know OOPs concepts it is easy to master.
-Object Oriented- Java treat everything as objects hence it can be easily extended as it is based on object model.
-Distributed- Java is best suited for distributed environment such as internet.
-Interpreted- Java byte code is translated on the fly to native machine instructions and is not stored anywhere. The development process is more rapid and analytical since the linking is an incremental and lightweight process.
-Robust- Java negotiates erroneous situations by emphasizing mainly on compile and run time only.
-Secure- Java is designed to apply security features with ease like authentiaction based on public key cryptography.
-Architectural Neutral- Java compiler creates a bytecode from the source which is gives the ability to write once and run on any platform.
-Portable- As it is architectural neutral and having no dependencies makes it portable. Compiler in Java is written in ANSI C with a clean portability boundary which is POSIX subset.
-High Performance- Wiith its Just-In-Time compiler it gives high performance.
-Multithreaded- It gives capability for developers to write programs which can do multiple works at the same time.
-Dynamic- More dynamic than C or C++ as it adapts to evolving environment. Each java programs holds extensive amount of run time information that can be used to verify and resolve accesses to objects on run-time.
+*Simple- It is designed for simplicity i.e., if you know OOPs concepts it is easy to master.
+*Object Oriented- Java treat everything as objects hence it can be easily extended as it is based on object model.
+*Distributed- Java is best suited for distributed environment such as internet.
+*Interpreted- Java byte code is translated on the fly to native machine instructions and is not stored anywhere. The development process is more rapid and analytical since the linking is an incremental and lightweight process.
+*Robust- Java negotiates erroneous situations by emphasizing mainly on compile and run time only.
+*Secure- Java is designed to apply security features with ease like authentiaction based on public key cryptography.
+*Architectural Neutral- Java compiler creates a bytecode from the source which is gives the ability to write once and run on any platform.
+*Portable- As it is architectural neutral and having no dependencies makes it portable. Compiler in Java is written in ANSI C with a clean portability boundary which is POSIX subset.
+*High Performance- Wiith its Just-In-Time compiler it gives high performance.
+*Multithreaded- It gives capability for developers to write programs which can do multiple works at the same time.
+*Dynamic- More dynamic than C or C++ as it adapts to evolving environment. Each java programs holds extensive amount of run time information that can be used to verify and resolve accesses to objects on run-time.
 
 #### JIT
 
