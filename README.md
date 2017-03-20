@@ -185,10 +185,21 @@ There are carious features possessed by the JAVA programming language some of th
 * Dynamic- More dynamic than C or C++ as it adapts to evolving environment. Each java programs holds extensive amount of run time information that can be used to verify and resolve accesses to objects on run-time.
 
 #### JIT
+JVM (Java Virtual Machine)- It is an abstract machine. It is a specification that provides runtime environment in which bytecode can be executed. It loads code, verifies code, Executes code and provides runtime environment.
+
+JRE (Java Runtime Environment)- It is implementation which contains libraries and other files that JVM uses at runtime.
+
+JDK (Java Development Kit)- It is basically combination of JRE and development tools required by Java.
+
+JVM, JRE and JDK are platform dependent while Java is independent.
+
+JIT (Just-In-Time) compiler- Compiler is  a translator that converts java code to machine specific code. Just in time means it compiles parts of byte code that have similar functionality at the same time thus reducing compilation time.
 
 #### Bytecode (.class file) 
+The .class file generated after the compilation of java code.
 
 #### Platform Independence
+Since java code is compiled through platform specific compiler hence it does not interacts with the OS of the system hence not effected by what type of OS it is being written on thus always generating the same bytecode for same java code. "Write once, Run everywhere"
 
 #### OOPs
 ##### Objects
